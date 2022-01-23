@@ -1,0 +1,4 @@
+﻿1,1,1,square,5,NULL,NULL,NULL,NULL,NULL,red
+2,1,2,circle,10,NULL,NULL,NULL,NULL,NULL,green
+3,100,100,rectacgle,40,50,NULL,NULL,NULL,NULL,blue
+4,50,50,triangle,10,10,20,20,10,0,pink
